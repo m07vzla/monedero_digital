@@ -22,18 +22,6 @@
 - Uso de funciones (def) y bucles while para mantener el flujo del programa  
 - Estructuras de control: if, elif, else, for, while
 
----
-
-## Cómo ejecutarlo
-
-1. Clona este repositorio o descarga el archivo .py
-2. Abre una terminal en la carpeta del proyecto
-3. Ejecuta el siguiente comando:
-```bash
-python monedero_digital.py
-
----
-
 ## Próximos pasos
 
 - Guardar usuarios y saldo en archivos .txt
@@ -42,6 +30,18 @@ python monedero_digital.py
 - Crear una interfaz visual
 
 ---
+
+## Autor
+*Mike07*  
+📅 Noviembre 2025 
+
+## Cómo ejecutarlo
+
+1. Clona este repositorio o descarga el archivo .py
+2. Abre una terminal en la carpeta del proyecto
+3. Ejecuta el siguiente comando:
+```bash
+python monedero_digital.py
 
 ## 🧑‍💻 Autor
 *Mike07*  
